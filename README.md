@@ -13,4 +13,6 @@ Libraries used for the project:
 4. Seaborn
 5. Jovian
 
+Various data science concepts have been used along with visualization models to create an analysis of Manchester United's players and overall team in the 21/22 season.
+
 All figures are used just for analysis purpose. The premilinary analysis is not meant to defame any individual or team, but rather presents an analysis of performances.
