@@ -2,7 +2,7 @@
 Manchester United's awful 2021/22 Premier League season in numbers. 
 
 This project makes use of an online Jupyter notebook to combine code along with markdown cells. 
-The analysis uses figures obtained from fbref.com correct and verified for the Premier League 2021/22 season. ALl CSV files have been taken from the same source.
+The analysis uses figures obtained from fbref.com correct and verified for the Premier League 2021/22 season. All CSV files have been taken from the same source.
 
 Open the ipynb file to get started. 
 
